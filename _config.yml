@@ -6,7 +6,7 @@ safe: false
 
 
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
+exclude: [CNAME, .gitignore]
 permalink: /:title ## disables post output
 timezone: null
 lsi: false
@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Wav2Pix. Speech-conditioned face generation using Generative Adversarial Networks "
-keywords:    "deep learning, adversarial learning, face synthesis, computer vision "
+title:       "The How2 Challenge: New Tasks for Language and Vision"
+keywords:    "deep learning, machine translation, speech recognition, summarization"
 description: "Description here"
-source_link: "https://github.com/miqueltubau/Wav2Pix.git"
+source_link: "https://github.com/srvk/how2-dataset"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 # google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
