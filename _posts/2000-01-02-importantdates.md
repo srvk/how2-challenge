@@ -1,8 +1,8 @@
 ---
 title: "Important Dates"
-bg: #9AD1F5
+bg: white
 color: black
-fa-icon: cog
+style: left
 ---
 
 *Please note these dates are tentative and may be changed.
