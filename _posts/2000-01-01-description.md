@@ -2,7 +2,7 @@
 title: "Description"
 bg: white
 color: black
-style: quote-left
+style: left
 ---
 # How2 Challenge
 {: .text-purple}
