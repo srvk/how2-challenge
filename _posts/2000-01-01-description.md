@@ -3,6 +3,7 @@ title: "  Description  "
 bg: white
 color: black
 style: left
+text-justify: auto
 ---
 # The How2 Challenge
 
