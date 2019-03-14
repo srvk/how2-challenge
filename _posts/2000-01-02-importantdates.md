@@ -10,10 +10,10 @@ style: left
 Please note these dates are tentative and may be changed.
 Refer to this website for more information.
 
-Deadline for paper submission: **~May 15th**
+Deadline for paper submission: **~May 15th 2019**
 
-Author Notification: **~May 22nd**
+Author Notification: **~May 22nd 2019**
 
-Workshop: **June 14th/15th**
+Workshop: **June 14th/15th 2019**
 
 * * *
