@@ -16,7 +16,7 @@ At NeurIPS 2018, we released the How2 data-set, containing 85,000 (2000h) of how
 <p align="center">
 <img src="img/how2-dataset.png" alt="hi" height="300"/>
 </p>
-<p align="center">*How2 contains a large variety of instructional videos with utterance-level English subtitles (in bold), aligned Portuguese translations (in italics), and video-level English summaries (in the box). Multimodality helps resolve ambiguities and improves understanding.*</p>
+<p align="center"> <i>How2 contains a large variety of instructional videos with utterance-level English subtitles (in bold), aligned Portuguese translations (in italics), and video-level English summaries (in the box). Multimodality helps resolve ambiguities and improves understanding.</i> </p>
 
 
 The workshop will be held on June 14/15th. Stay tuned for more information and updates!
