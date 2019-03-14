@@ -14,7 +14,7 @@ style: left
     </a>
 </div>
 <div class="authorbio">
-    <p> <b>Katerina Fragkiadaki</b> is an Assistant Professor in the Machine Learning Department at Carnegie Mellon. She is interested in building machines that understand the stories that videos portray, and, inversely, in using videos to teach machines about the world. 
+    <p> Katerina Fragkiadaki is an Assistant Professor in the Machine Learning Department at Carnegie Mellon. She is interested in building machines that understand the stories that videos portray, and, inversely, in using videos to teach machines about the world. 
     </p>
 </div>
 
@@ -26,7 +26,7 @@ style: left
     </a>
 </div>
 <div class="authorbio">
-    <p> <b>Lisa Anne Hendricks</b> is a graduate student researcher at UC Berkeley studying computer vision with Professor Trevor Darrell. Her PhD work has focussed on building systems which can express information about visual content using natural language and retrieve visual information given natural language. 
+    <p> Lisa Anne Hendricks is a graduate student researcher at UC Berkeley studying computer vision with Professor Trevor Darrell. Her PhD work has focussed on building systems which can express information about visual content using natural language and retrieve visual information given natural language. 
     </p>
 </div>
 
@@ -38,7 +38,7 @@ style: left
     </a>
 </div>
 <div class="authorbio">
-    <p> <b>Qin Jin</b> received her B.Sc. and M.S. degrees in computer science and technologies from Tsinghua University, Beijing, China in 1996, 1999, respectively. She received her Ph.D. degree in Language and Information Technologies from Carnegie Mellon University in 2007. She worked as research faculty at Language Technologies Institute in Carnegie Mellon University afterwards till March, 2012. She became Research Scientist of IBM China Research Laboratory from April, 2012 - December 2012. She is currently Associate Professor at School of Information in Renmin University of China. She is leading the multimedia content analysis research group. 
+    <p> Qin Jin received her B.Sc. and M.S. degrees in computer science and technologies from Tsinghua University, Beijing, China in 1996, 1999, respectively. She received her Ph.D. degree in Language and Information Technologies from Carnegie Mellon University in 2007. She worked as research faculty at Language Technologies Institute in Carnegie Mellon University afterwards till March, 2012. She became Research Scientist of IBM China Research Laboratory from April, 2012 - December 2012. She is currently Associate Professor at School of Information in Renmin University of China. She is leading the multimedia content analysis research group. 
     </p>
 </div>
 
