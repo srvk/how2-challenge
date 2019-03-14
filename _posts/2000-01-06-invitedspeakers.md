@@ -1,5 +1,5 @@
 ---
-title: "Invited Speakers"
+title: "Speakers"
 bg: lightgray 
 color: black
 style: left
