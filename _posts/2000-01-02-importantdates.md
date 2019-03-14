@@ -1,5 +1,5 @@
 ---
-title: "Important Dates"
+title: "Dates"
 bg: lightgray
 color: black
 style: left
