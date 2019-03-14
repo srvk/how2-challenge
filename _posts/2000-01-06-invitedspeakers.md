@@ -50,7 +50,7 @@ style: left
     </a>
 </div>
 <div class="authorbio">
-    <p> <b>Angeliki Lazaridou</b> is a research scientist at DeepMind. Her primary research interests are in the area of natural language processing (NLP), and specifically, in multimodal semantics.  
+    <p> Angeliki Lazaridou is a research scientist at DeepMind. Her primary research interests are in the area of natural language processing (NLP), and specifically, in multimodal semantics.  
     </p>
 </div>
 
@@ -62,7 +62,7 @@ style: left
     </a>
 </div>
 <div class="authorbio">
-    <p> <b>Devi Parikh</b> is an Assistant Professor in the School of Interactive Computing at Georgia Tech, and a Research Scientist at Facebook AI Research (FAIR). Her research interests include computer vision and AI in general and visual recognition problems in particular.
+    <p> Devi Parikh is an Assistant Professor in the School of Interactive Computing at Georgia Tech, and a Research Scientist at Facebook AI Research (FAIR). Her research interests include computer vision and AI in general and visual recognition problems in particular.
     </p>
 </div>
 
@@ -74,7 +74,7 @@ style: left
     </a>
 </div>
 <div class="authorbio">
-    <p> <b>Kate Saenko</b> is an Associate Professor at the Department of Computer Science at Boston University, and the director of the Computer Vision and Learning Group and member of the IVC Group. Her research interests are in the broad area of Artificial Intelligence with a focus on Adaptive Machine Learning, Learning for Vision and Language Understanding, and Deep Learning.
+    <p> Kate Saenko is an Associate Professor at the Department of Computer Science at Boston University, and the director of the Computer Vision and Learning Group and member of the IVC Group. Her research interests are in the broad area of Artificial Intelligence with a focus on Adaptive Machine Learning, Learning for Vision and Language Understanding, and Deep Learning.
     </p>
 </div>
 
@@ -86,7 +86,7 @@ style: left
     </a>
 </div>
 <div class="authorbio">
-    <p> <b>Bernt Schiele</b> has been Max Planck Director at MPI for Informatics and Professor at Saarland University since 2010. He studied computer science at the University of Karlsruhe, Germany. He worked on his master thesis in the field of robotics in Grenoble, France, where he also obtained the "diplome d'etudes approfondies d'informatique". In 1994 he worked in the field of multi-modal human-computer interfaces at Carnegie Mellon University, Pittsburgh, PA, USA in the group of Alex Waibel. In 1997 he obtained his PhD from INP Grenoble, France under the supervision of Prof. James L. Crowley in the field of computer vision. The title of his thesis was "Object Recognition using Multidimensional Receptive Field Histograms". Between 1997 and 2000 he was postdoctoral associate and Visiting Assistant Professor with the group of Prof. Alex Pentland at the Media Laboratory of the Massachusetts Institute of Technology, Cambridge, MA, USA. From 1999 until 2004 he was Assistant Professor at the Swiss Federal Institute of Technology in Zurich (ETH Zurich). Between 2004 and 2010 he was Full Professor at the computer science department of TU Darmstadt.
+    <p> Bernt Schiele has been Max Planck Director at MPI for Informatics and Professor at Saarland University since 2010. He studied computer science at the University of Karlsruhe, Germany. He worked on his master thesis in the field of robotics in Grenoble, France, where he also obtained the "diplome d'etudes approfondies d'informatique". In 1994 he worked in the field of multi-modal human-computer interfaces at Carnegie Mellon University, Pittsburgh, PA, USA in the group of Alex Waibel. In 1997 he obtained his PhD from INP Grenoble, France under the supervision of Prof. James L. Crowley in the field of computer vision. The title of his thesis was "Object Recognition using Multidimensional Receptive Field Histograms". Between 1997 and 2000 he was postdoctoral associate and Visiting Assistant Professor with the group of Prof. Alex Pentland at the Media Laboratory of the Massachusetts Institute of Technology, Cambridge, MA, USA. From 1999 until 2004 he was Assistant Professor at the Swiss Federal Institute of Technology in Zurich (ETH Zurich). Between 2004 and 2010 he was Full Professor at the computer science department of TU Darmstadt.
     </p>
 </div>
 
