@@ -1,6 +1,6 @@
 ---
 title: "Important Dates"
-bg: lightgray
+bg: grey
 color: black
 style: left
 ---
