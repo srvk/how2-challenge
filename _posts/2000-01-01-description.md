@@ -15,5 +15,5 @@ At NeurIPS 2018, we released the How2 data-set, containing 85,000 (2000h) of how
 
 The workshop will be held on June 14/15th. Stay tuned for more information and updates!
 
-
+* * *
 
