@@ -33,6 +33,7 @@ colors:
   orange:    '#fab125'
   turquoise: '#0fbfcf'
   lightgray: '#D3D3D3'
+  grey:      '#808080'
 
 kramdown:
   auto_ids:  false
