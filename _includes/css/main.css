@@ -277,7 +277,8 @@ nav ul li:hover, nav ul li.active {
   margin-right:10px;
 }
 
-.authorbio {
+.authorbio p2 {
+  float: right;
   display: inline-block;
   width: 280px;
   font-size : 18px;
