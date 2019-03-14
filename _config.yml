@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "The How2 Challenge"
 keywords:    "deep learning, machine translation, speech recognition, summarization, multimodal, computer vision, language, grounding"
-description: "Description here"
+description: "New Tasks for Vision and Language"
 source_link: "https://github.com/srvk/how2-challenge"
 #favicon:     "img/favicon.ico"
 #touch_icon:  "img/apple-touch-icon.png"
