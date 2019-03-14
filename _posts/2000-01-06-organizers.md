@@ -3,7 +3,6 @@ title: "Organizers"
 bg: white 
 color: black
 style: center
-fa-icon: thumbs-up
 ---
 
 <div class="author">
