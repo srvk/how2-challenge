@@ -2,8 +2,9 @@
 title: "Invited Speakers"
 bg: blue
 color: white
-style: center
-fa-icon: github
+style: left
 ---
+
+### Invited Speakers
 
 *Coming Soon!*
