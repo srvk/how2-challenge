@@ -1,6 +1,6 @@
 ---
 title: "Important Dates"
-bg: grey
+bg: lightgray
 color: black
 style: left
 ---
@@ -15,3 +15,5 @@ Deadline for paper submission: ~May 15th
 Author Notification: ~May 22nd
 
 Workshop: June 14th/15th
+
+* * *
