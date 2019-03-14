@@ -69,7 +69,7 @@ style: left
 
 <div class="author" align="center">
     <a href="https://www.bu.edu/cs/profiles/kate-saenko/" target="_blank">
-      <div class="authorphoto"><img src="./assets/authors/kate.jpg"></div>
+      <div class="authorphoto"><img src="./assets/authors/kate.png"></div>
       <div>Kate Saenko</div>
     </a>
 </div>
