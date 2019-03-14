@@ -1,5 +1,5 @@
 ---
-title: "Description"
+title: "  Description  "
 bg: white
 color: black
 style: left
