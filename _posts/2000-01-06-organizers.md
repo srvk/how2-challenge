@@ -1,6 +1,6 @@
 ---
 title: "Organizers"
-bg: white 
+bg: lightgray 
 color: black
 style: center
 ---
