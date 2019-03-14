@@ -18,8 +18,8 @@ title:       "The How2 Challenge"
 keywords:    "deep learning, machine translation, speech recognition, summarization, multimodal, computer vision, language, grounding"
 description: "Description here"
 source_link: "https://github.com/srvk/how2-challenge"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
+#favicon:     "img/favicon.ico"
+#touch_icon:  "img/apple-touch-icon.png"
 # google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
