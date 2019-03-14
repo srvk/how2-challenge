@@ -7,7 +7,7 @@ text-justify: auto
 ---
 # The How2 Challenge
 
-### New Tasks for Vision and Language
+### <b>New Tasks for Vision and Language</b>
 
 Research at the intersection of vision and language has been attracting a lot of attention in recent years. Research topics include the study of multi-modal representations, translation between modalities, bootstrapping of labels from one modality into another, visually-grounded question answering, segmentation and storytelling, and grounding the meaning of language in visual data. An ever-increasing number of tasks and datasets are appearing around this recently-established field.
 
