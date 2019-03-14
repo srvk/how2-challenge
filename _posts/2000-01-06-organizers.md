@@ -5,6 +5,8 @@ color: black
 style: center
 ---
 
+### Organizers
+
 <div class="author">
     <a href="http://www.cs.cmu.edu/~fmetze/interACT/Home.html" target="_blank">
       <div class="authorphoto"><img src="./assets/authors/florian.jpg"></div>
