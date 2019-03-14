@@ -1,6 +1,6 @@
 ---
 title: "Invited Speakers"
-bg: white
+bg: lightgray 
 color: black
 style: left
 ---
