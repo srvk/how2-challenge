@@ -25,8 +25,5 @@ We are organizing a workshop at ICML 2019, to bring together researchers and fos
 </p>
 
 
-The workshop will be held on either June 14 or 15.
-
-
 * * *
 
