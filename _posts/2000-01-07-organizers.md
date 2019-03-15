@@ -39,7 +39,7 @@ style: center
 </div>
 <div class="author">
     <a href="https://shrutijpalaskar.github.io" target="_blank">
-      <div class="authorphoto"><img src="./assets/authors/shruti120x120.jpg"></div>
+      <div class="authorphoto"><img src="./assets/authors/scales_image.jpg"></div>
       <div>Shruti Palaskar</div>
     </a>
 </div>
