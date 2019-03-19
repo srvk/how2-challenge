@@ -22,7 +22,7 @@ style: center
 <div class="author">
     <a href="https://elliottd.github.io" target="_blank">
       <div class="authorphoto"><img src="./assets/authors/des.jpg"></div>
-      <div>Desmond Elliot</div>
+      <div>Desmond Elliott</div>
     </a>
 </div>
 <div class="author">
@@ -39,7 +39,7 @@ style: center
 </div>
 <div class="author">
     <a href="https://shrutijpalaskar.github.io" target="_blank">
-      <div class="authorphoto"><img src="./assets/authors/shruti.png"></div>
+      <div class="authorphoto"><img src="./assets/authors/scales_image.jpg"></div>
       <div>Shruti Palaskar</div>
     </a>
 </div>

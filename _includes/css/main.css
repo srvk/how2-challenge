@@ -277,6 +277,15 @@ nav ul li:hover, nav ul li.active {
   margin-right:10px;
 }
 
+.authorbio p2 {
+  float: right;
+  display: inline-block;
+  width: 280px;
+  font-size : 18px;
+  text-align: left;
+  margin-right:10px;
+}
+
 /* ----- fork on github banner ----- */
 #forkongithub a {
   color:#fff;

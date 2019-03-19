@@ -14,12 +14,12 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "The How2 Challenge: New Tasks for Language and Vision"
-keywords:    "deep learning, machine translation, speech recognition, summarization"
-description: "Description here"
+title:       "The How2 Challenge"
+keywords:    "deep learning, machine translation, speech recognition, summarization, multimodal, computer vision, language, grounding"
+description: "New Tasks for Vision and Language"
 source_link: "https://github.com/srvk/how2-challenge"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
+#favicon:     "img/favicon.ico"
+#touch_icon:  "img/apple-touch-icon.png"
 # google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
