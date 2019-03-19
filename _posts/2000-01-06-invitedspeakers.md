@@ -21,7 +21,7 @@ style: left
 
 <div class="author" align="center">
     <a href="https://people.eecs.berkeley.edu/~lisa_anne/" target="_blank">
-      <div class="authorphoto"><img src="./assets/authors/lisa.jpg"></div>
+      <div class="authorphoto"><img src="./assets/authors/lisaResized.jpg"></div>
       <div>Lisa Anne Hendricks</div>
     </a>
 </div>
@@ -33,7 +33,7 @@ style: left
 
 <div class="author" align="center">
     <a href="http://www.cs.cmu.edu/~qjin/" target="_blank">
-      <div class="authorphoto"><img src="./assets/authors/qin.jpg"></div>
+      <div class="authorphoto"><img src="./assets/authors/qinResized.jpg"></div>
       <div>Qin Jin</div>
     </a>
 </div>
@@ -81,7 +81,7 @@ style: left
 
 <div class="author" align="center">
     <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/" target="_blank">
-      <div class="authorphoto"><img src="./assets/authors/bernt.jpg"></div>
+      <div class="authorphoto"><img src="./assets/authors/berntResized.jpg"></div>
       <div>Bernt Schiele</div>
     </a>
 </div>
