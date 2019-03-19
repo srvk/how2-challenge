@@ -27,7 +27,7 @@ style: center
 </div>
 <div class="author">
     <a href="https://scholar.google.fr/citations?user=i4IBjw4AAAAJ&hl=fr&oi=ao" target="_blank">
-      <div class="authorphoto"><img src="./assets/authors/loicResized.jpeg"></div>
+      <div class="authorphoto"><img src="./assets/authors/loicResized.jpg"></div>
       <div>Loïc Barrault</div>
     </a>
 </div>
