@@ -18,7 +18,7 @@ To support research in this area, we recently released the How2 data-set, contai
 We are organizing a workshop at ICML 2019, to bring together researchers and foster the exchange of ideas in this area.
 
 <p align="center">
-<img src="img/How2_image.png" alt="hi" height="300"/>
+<img src="img/How2_image-2.png" alt="hi" height="300"/>
 </p>
 
 <p align="center" style="font-family:georgia,garamond,serif;font-size:15px;font-style:italic;">How2 contains a large variety of instructional videos with utterance-level English subtitles (in bold), aligned Portuguese translations (in italics), and video-level English summaries (in the box). Multimodality helps resolve ambiguities and improves understanding.
