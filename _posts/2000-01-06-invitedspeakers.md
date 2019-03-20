@@ -8,10 +8,11 @@ style: left
 ### Invited Speakers
 
 <table style="width:100%">
-  
+  <col align="left">
+  <col align="left">
   <tr class="spaceUnder">
         <th valign="top">
-            <div class="author" align="center">
+            <div class="author">
             <a href="https://www.cs.cmu.edu/~katef/" target="_blank">
                 <div class="authorphoto"><img src="./assets/authors/katerinaResized.jpg"></div>
             </a>
