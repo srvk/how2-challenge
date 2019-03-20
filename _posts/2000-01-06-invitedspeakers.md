@@ -11,7 +11,7 @@ style: left
   <col align="left">
   <col align="left">
   <tr class="spaceUnder">
-        <th valign="bottom">
+        <th valign="top">
             <div class="author" align="center">
             <a href="https://www.cs.cmu.edu/~katef/" target="_blank">
                 <div class="authorphoto"><img src="./assets/authors/katerinaResized.jpg"></div>
