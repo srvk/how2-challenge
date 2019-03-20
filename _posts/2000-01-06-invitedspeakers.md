@@ -26,6 +26,7 @@ style: left
             </div>
         </th>
    </tr>
+</table>
 
 <div class="author" align="center">
     <a href="https://people.eecs.berkeley.edu/~lisa_anne/" target="_blank">
