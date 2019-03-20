@@ -21,7 +21,7 @@ We are organizing a workshop at ICML 2019, to bring together researchers and fos
 <img src="img/How2_Image-2.png" alt="hi" height="300"/>
 </p>
 
-<p align="center" style="font-family:georgia,garamond,serif;font-size:15px;font-style:italic;">How2 contains a large variety of instructional videos with utterance-level English subtitles (in bold), aligned Portuguese translations (in italics), and video-level English summaries (in the box). Multimodality helps resolve ambiguities and improves understanding.
+<p align="center" style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:15px;font-style:italic;">How2 contains a large variety of instructional videos with utterance-level English subtitles (in bold), aligned Portuguese translations (in italics), and video-level English summaries (in the box). Multimodality helps resolve ambiguities and improves understanding.
 </p>
 
 
