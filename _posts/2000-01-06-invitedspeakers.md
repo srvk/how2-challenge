@@ -8,8 +8,7 @@ style: left
 ### Invited Speakers
 
 <table style="width:100%">
-  <col align="left">
-  <col align="left">
+  
   <tr class="spaceUnder">
         <th valign="top">
             <div class="author" align="center">
