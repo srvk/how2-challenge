@@ -20,7 +20,7 @@ style: left
         </th>
         <th valign="top">
             <div class="authorbio">
-            <p> <a href="https://www.cs.cmu.edu/~katef/" target="_blank">Katerina Fragkiadaki</a> is an Assistant Professor in the Machine Learning Department at Carnegie Mellon. She is interested in building machines that understand the stories that videos portray, and, inversely, in using videos to teach machines about the world.
+            <p> <a href="https://www.cs.cmu.edu/~katef/" target="_blank"><strong>Katerina Fragkiadaki</strong></a> is an Assistant Professor in the Machine Learning Department at Carnegie Mellon. She is interested in building machines that understand the stories that videos portray, and, inversely, in using videos to teach machines about the world.
             </p>
             </div>
         </th>
