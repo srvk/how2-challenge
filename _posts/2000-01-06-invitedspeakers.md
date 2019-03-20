@@ -27,7 +27,7 @@ style: left
    </tr>
 
 <tr>
-<th valign="bottom"
+<th valign="bottom">
     <div class="author" align="center">
     <a href="https://people.eecs.berkeley.edu/~lisa_anne/" target="_blank">
       <div class="authorphoto"><img src="./assets/authors/lisaResized.jpg"></div>
@@ -120,4 +120,5 @@ style: left
 </div>
   </th>
   </tr>
+</table>
 * * *
