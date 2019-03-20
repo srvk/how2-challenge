@@ -15,13 +15,12 @@ style: left
             <div class="author" align="center">
             <a href="https://www.cs.cmu.edu/~katef/" target="_blank">
                 <div class="authorphoto"><img src="./assets/authors/katerina.png"></div>
-                <div>Katerina Fragkiadaki</div>
             </a>
             </div>
         </th>
         <th>
             <div class="authorbio">
-            <p> <strong>Katerina Fragkiadaki</strong> is an Assistant Professor in the Machine Learning Department at Carnegie Mellon. She is interested in building machines that understand the stories that videos portray, and, inversely, in using videos to teach machines about the world. 
+            <p> <strong>Katerina Fragkiadaki</strong> is an Assistant Professor in the Machine Learning Department at Carnegie Mellon. She is interested in building machines that understand the stories that videos portray, and, inversely, in using videos to teach machines about the world. <a href="https://www.cs.cmu.edu/~katef/" target="_blank">[Webpage]</a>
             </p>
             </div>
         </th>
