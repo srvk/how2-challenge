@@ -10,7 +10,9 @@ style: left
 We seek submissions in the following two categories:
 
 
-- Papers that describe work on the How2 data, either on the “shared challenge tasks”, e.g. multi-modal speech recognition, machine translation, or video summarization challenge, described on the How2 web site (a leader-board will be provided), or creating “un-shared”, novel tasks.
+- Papers that describe work on the How2 data, either on the shared challenge tasks, e.g. multi-modal speech recognition, machine translation, or video summarization challenge, or creating “un-shared”, novel tasks.
+
+
 - Papers that describe other related and relevant work to further vision and language ideas by proposing new tasks, or analyzing the utility of existing tasks and data sets in interesting ways
 
 
