@@ -10,7 +10,7 @@ style: left
 <table style="width:100%">
   <col align="left">
   <col align="left">
-  <tr>
+  <tr class="spaceUnder">
         <th valign="bottom">
             <div class="author" align="center">
             <a href="https://www.cs.cmu.edu/~katef/" target="_blank">
@@ -26,7 +26,7 @@ style: left
         </th>
    </tr>
 
-<tr>
+<tr class="spaceUnder">
 <th valign="bottom">
     <div class="author" align="center">
     <a href="https://people.eecs.berkeley.edu/~lisa_anne/" target="_blank">
@@ -42,7 +42,7 @@ style: left
 </th>
 </tr>
 
-<tr>
+<tr class="spaceUnder">
   <th valign="bottom">
 <div class="author" align="center">
     <a href="http://www.cs.cmu.edu/~qjin/" target="_blank">
@@ -57,7 +57,8 @@ style: left
 </div>
   </th>
   </tr>
-<tr>
+
+<tr class="spaceUnder">
   <th valign="bottom">
 <div class="author" align="center">
     <a href="http://angelikilazaridou.github.io" target="_blank">
@@ -73,7 +74,7 @@ style: left
   </th>
   </tr>
 
-<tr>
+<tr class="spaceUnder">
   <th valign="bottom">
 <div class="author" align="center">
     <a href="https://www.cc.gatech.edu/~parikh/bio.html" target="_blank">
@@ -89,7 +90,7 @@ style: left
   </th>
   </tr>
 
-<tr>
+<tr class="spaceUnder">
   <th valign="bottom">
 <div class="author" align="center">
     <a href="https://www.bu.edu/cs/profiles/kate-saenko/" target="_blank">
@@ -105,7 +106,7 @@ style: left
   </th>
   </tr>
 
-<tr>
+<tr class="spaceUnder">
   <th valign="bottom">
 <div class="author" align="center">
     <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/" target="_blank">
