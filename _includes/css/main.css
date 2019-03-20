@@ -262,6 +262,10 @@ nav ul li:hover, nav ul li.active {
     margin : 0 10px;
 }
 
+tr.spaceUnder>td {
+  padding-bottom: 1em;
+}
+
 .authorphoto img {
   height: 120px;	
   width: 120px;
