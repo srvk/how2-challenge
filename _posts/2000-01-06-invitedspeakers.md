@@ -62,7 +62,7 @@ style: left
   <th valign="bottom">
 <div class="author" align="center">
     <a href="http://angelikilazaridou.github.io" target="_blank">
-      <div class="authorphoto"><img src="./assets/authors/angeliki.jpg"></div>
+      <div class="authorphoto"><img src="./assets/authors/angelikiResized.jpg"></div>
     </a>
 </div>
   </th>
