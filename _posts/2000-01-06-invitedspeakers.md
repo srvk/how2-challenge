@@ -14,7 +14,7 @@ style: left
         <th valign="bottom">
             <div class="author" align="center">
             <a href="https://www.cs.cmu.edu/~katef/" target="_blank">
-                <div class="authorphoto"><img src="./assets/authors/katerina.png"></div>
+                <div class="authorphoto"><img src="./assets/authors/katerinaResized.png"></div>
             </a>
             </div>
         </th>
