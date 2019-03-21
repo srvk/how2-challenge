@@ -25,9 +25,9 @@ We are organizing a workshop at ICML 2019, to bring together researchers and fos
 <p align="center" style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:15px;font-style:italic;">How2 contains a large variety of instructional videos with utterance-level English subtitles (in bold), aligned Portuguese translations (in italics), and video-level English summaries (in the box). Multimodality helps resolve ambiguities and improves understanding.
 </p>
 
-<p align="center" style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:15px;" font-color="maroon">Get the How2 dataset and start exploring! </p>
+<p align="center" style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:19px;" color="maroon">Get the How2 dataset and start exploring! </p>
   
-<p align="center" style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:15px;" font-color="maroon">  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfW2i8UnjuoH2KKSU0BvcKRbhnk_vL3HcNlM0QLsJGb_UEDVQ/viewform?usp=pp_url" color="blue"><strong>Download</strong></a> | <a href="srvk.github.io/how2-dataset"><strong>Learn more</strong></a>
+<p align="center" style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:19px;" color="maroon">  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfW2i8UnjuoH2KKSU0BvcKRbhnk_vL3HcNlM0QLsJGb_UEDVQ/viewform?usp=pp_url" color="blue"><strong>Download</strong></a> | <a href="srvk.github.io/how2-dataset"><strong>Learn more</strong></a>
 </p>
 
 
