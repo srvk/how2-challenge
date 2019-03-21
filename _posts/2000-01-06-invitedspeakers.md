@@ -18,7 +18,7 @@ style: left
             </a>
             </div>
         </th>
-        <th>
+        <th valign="top">
             <div class="authorbio" align="top">
             <p> <a href="https://www.cs.cmu.edu/~katef/" target="_blank"><strong>Katerina Fragkiadaki</strong></a> is an Assistant Professor in the Machine Learning Department at Carnegie Mellon. She is interested in building machines that understand the stories that videos portray, and, inversely, in using videos to teach machines about the world.
             </p>
@@ -35,7 +35,7 @@ style: left
     </div>
 </td>
 <td valign="top">
-  <div class="authorbio">
+  <div class="authorbio" align="top">
     <p> <a href="https://people.eecs.berkeley.edu/~lisa_anne/" target="_blank"><strong>Lisa Anne Hendricks</strong></a> is a graduate student researcher at UC Berkeley studying computer vision with Professor Trevor Darrell. Her PhD work has focussed on building systems which can express information about visual content using natural language and retrieve visual information given natural language. 
     </p>
   </div>
