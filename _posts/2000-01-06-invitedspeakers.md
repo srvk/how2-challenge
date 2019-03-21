@@ -52,7 +52,7 @@ style: left
   </td>
   <td valign="top">
 <div class="authorbio">
-  <p> <a href="http://www.cs.cmu.edu/~qjin/" target="_blank"><strong>Qin Jin</strong></a> received her B.Sc. and M.S. degrees in computer science and technologies from Tsinghua University, Beijing, China in 1996, 1999, respectively. She received her Ph.D. degree in Language and Information Technologies from Carnegie Mellon University in 2007. She worked as research faculty at Language Technologies Institute in Carnegie Mellon University afterwards till March, 2012. She became Research Scientist of IBM China Research Laboratory from April, 2012 - December 2012. She is currently Associate Professor at School of Information in Renmin University of China. She is leading the multimedia content analysis research group. 
+  <p> <a href="http://www.cs.cmu.edu/~qjin/" target="_blank"><strong>Qin Jin</strong></a> is an associate professor in School of Information at Renmin University of China where she leads the multimedia content analysis research group. She received her Ph.D. degree in Language and Information Technologies from Carnegie Mellon University and had research experiences in both academia and industry.
     </p>
 </div>
   </td>
