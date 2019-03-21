@@ -279,7 +279,8 @@ tr.spaceUnder>td {
   display: inline-block;
   width: 140px;
   font-size : 15px;
-  text-align: center;
+  vertical-align: text-top;
+  /*text-align: center;*/
   margin-right:10px;
 }
 
