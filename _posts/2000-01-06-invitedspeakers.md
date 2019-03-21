@@ -10,7 +10,7 @@ style: left
 <table>
   <col align="left">
   <col align="left">
-  <tr>
+  <tr class="spaceUnder">
         <th>
             <div class="author">
             <a href="https://www.cs.cmu.edu/~katef/" target="_blank">
