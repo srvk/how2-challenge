@@ -14,7 +14,7 @@ style: left
         <td>
             <div class="author">
             <a href="https://www.cs.cmu.edu/~katef/" target="_blank">
-                <div class="authorphoto"><img src="./assets/authors/katerinaResized.jpg"></div>
+                <div class="authorphoto"><img src="./assets/authors/katerinaResized1.jpg"></div>
             </a>
             </div>
         </td>
@@ -62,7 +62,7 @@ style: left
   <td>
 <div class="author" align="center">
     <a href="http://angelikilazaridou.github.io" target="_blank">
-      <div class="authorphoto"><img src="./assets/authors/angelikiResized.jpg"></div>
+      <div class="authorphoto"><img src="./assets/authors/angelikiResized1.jpg"></div>
     </a>
 </div>
   </td>
