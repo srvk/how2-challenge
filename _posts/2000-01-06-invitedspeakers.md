@@ -7,18 +7,25 @@ style: left
 
 ### Invited Speakers
 
-<table style="width:100%">
+<style type=“text/css”>
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+
+<table class="tg">
   <col align="left">
   <col align="left">
-  <tr class="spaceUnder">
-        <th valign="top">
+  <tr>
+        <th class=“tg-0pky”>
             <div class="author">
             <a href="https://www.cs.cmu.edu/~katef/" target="_blank">
                 <div class="authorphoto"><img src="./assets/authors/katerinaResized.jpg"></div>
             </a>
             </div>
         </th>
-        <th valign="top">
+        <th class=“tg-0pky”>
             <div class="authorbio" align="top">
             <p> <a href="https://www.cs.cmu.edu/~katef/" target="_blank"><strong>Katerina Fragkiadaki</strong></a> is an Assistant Professor in the Machine Learning Department at Carnegie Mellon. She is interested in building machines that understand the stories that videos portray, and, inversely, in using videos to teach machines about the world.
             </p>
