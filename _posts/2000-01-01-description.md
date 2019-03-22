@@ -15,7 +15,7 @@ Research at the intersection of vision and language has attracted an increasing 
 
 To support research in this area, we recently released the How2 data-set, containing 2000 hours of how-to instructional videos, with audio, subtitles, Brazilian Portuguese translations, and textual summaries, making it an ideal resource to bring together researchers working on different aspects of multimodal learning. We hope that a common dataset will facilitate comparisons of tools and algorithms, and foster collaboration.
 
-We are organizing a workshop at ICML 2019, to bring together researchers and foster the exchange of ideas in this area. We invite papers that participate in the How2 Challenge shared tasks and also those that use other public or private multimodal datasets. For any questions, contact us at how2challenge@gmail.com.
+We are organizing a workshop at ICML 2019, to bring together researchers and foster the exchange of ideas in this area. We invite papers that participate in the How2 Challenge shared tasks and also those that use other public or private multimodal datasets. For any questions, contact us at <how2challenge@gmail.com>.
 
 
 <p align="center">
