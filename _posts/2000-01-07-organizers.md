@@ -51,7 +51,7 @@ style: center
 
 1. Palaskar et al. "End-to-End Multimodal Speech Recognition", ICASSP 2018
 2. Caglayan et al. "Multimodal Grounding for Sequence-to-Sequence Speech Recognition", ICASSP 2019
-3. Elliot et al. "Findings of the Second Shared Task on Multimodal Machine Translation and Multilingual Image Description", WMT 2017
+3. Elliott et al. "Findings of the Second Shared Task on Multimodal Machine Translation and Multilingual Image Description", WMT 2017
 4. Shared Task on Multimodal Machine Translation, Workshop on Machine Translation https://www.statmt.org/wmt18/multimodal-task.html
 5. Libovicky et al. "Multimodal Abstractive Summarization for Open-Domain Videos", Visually Grounded Interaction and Learning Workshop, NeurIPS 2018
 6. Holzenberger et al. "Learning from Multiview Correlations in Open-Domain Videos", ICASSP 2019
