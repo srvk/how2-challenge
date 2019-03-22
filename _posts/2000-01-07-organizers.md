@@ -44,7 +44,7 @@ style: center
     </a>
 </div>
 
-<p style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:15px">For any questions, contact us at <how2challenge@gmail.com>.</p>
+<p style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:15px">For any questions, contact us at how2challenge@gmail.com.</p>
 
 * * * 
 
