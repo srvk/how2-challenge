@@ -44,6 +44,7 @@ style: center
     </a>
 </div>
 
+For any questions, contact us at <how2challenge@gmail.com>.
 
 * * * 
 
