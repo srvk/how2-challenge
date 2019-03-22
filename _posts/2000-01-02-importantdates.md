@@ -8,7 +8,7 @@ style: left
 ### Important Dates
 
 Please note these dates are tentative and may be changed.
-Refer to this website for more information.
+Refer to this website for more information. All times are 11:59pm Pacific Time.
 
 
 Challenge starts: **March 15 2019**
