@@ -116,7 +116,7 @@ style: left
   </td>
   <td>
 <div class="authorbio">
-    <p> <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/" target="_blank"><strong>Bernt Schiele</strong></a> has been Max Planck Director at MPI for Informatics and Professor at Saarland University since 2010. He obtained his PhD from INP Grenoble, France under the supervision of Prof. James L. Crowley in the field of computer vision. 
+    <p> <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/" target="_blank"><strong>Bernt Schiele</strong></a> is a Max Planck Director at MPI for Informatics and Professor at Saarland University since 2010, both in Saarbrucken, Germany. Before that he had academic positions at ETH Zurich, TU Darmstadt, MIT, INP Grenoble and CMU. His current research interests cover a wide range of topics in computer vision, including how to leverage language for visual scene understanding and how to leverage vision for language understanding. 
     </p>
 </div>
   </td>
