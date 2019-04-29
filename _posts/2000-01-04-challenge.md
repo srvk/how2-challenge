@@ -23,10 +23,10 @@ You could email the results files to us at <how2challenge@gmail.com> or submit y
       <button type="button" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit Results</button>
       </div></td>
     <td><div class="authorbio" align="top">
-      <button type="button" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit Results</button>
+      <button type="button" onclick="location.href = 'https://forms.gle/27ABz4niLAzW2EHA6';">Submit Results</button>
       </div></td>
     <td><div class="authorbio" align="top">
-      <button type="button" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit Results</button>
+      <button type="button" onclick="location.href = 'https://forms.gle/ffTeQYcRaCYiGYsN9';">Submit Results</button>
       </div></td>
   </tr>
 </table>
