@@ -19,9 +19,9 @@ You could email the results files to us at `how2challenge@gmail.com` or submit y
     <th>Summarization</th>
   </tr>
   <tr>
-    <td><button type="button" onclick="alert('Hello world!')">Submit Results</button></td>
-    <td><button type="button" onclick="alert('Hello world!')">Submit Results</button></td>
-    <td><button type="button" onclick="alert('Hello world!')">Submit Results</button></td>
+    <td><button type="button" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit Results</button></td>
+    <td><button type="button" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit Results</button></td>
+    <td><button type="button" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit Results</button></td>
   </tr>
 </table>
 
