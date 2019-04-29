@@ -12,7 +12,7 @@ The How2 Challenge has three tasks: Speech Recognition, Machine Translation, and
 You could email the results files to us at <how2challenge@gmail.com> or submit your evaluated files through the Google Forms below. See more at [https://github.com/srvk/how2-challenge/wiki]
 
 
-<table>
+<table width="100%";>
   <tr>
     <th>Speech Recognition</th>
     <th>Machine Translation</th>
