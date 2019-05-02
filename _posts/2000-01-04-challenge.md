@@ -5,14 +5,15 @@ color: black
 style: left
 ---
 
-### Challenge Information
+### Information
 
 The How2 Challenge has three tasks: Speech Recognition, Machine Translation, and Summarization. 
 
 To submit to the challenge, you could either email your un-scored model outputs to us at <how2challenge@gmail.com> or submit your evaluated files through the Google Forms below. Visit the <a href="https://github.com/srvk/how2-dataset/blob/master/README.md#how2-evaluate">How2 evaluate</a> page for more instructions.
 
-### Challenge Leaderboard
+### Leaderboards
 
+<div align="center">
 <table>
   <col align="left">
   <col align="left">
@@ -33,6 +34,6 @@ To submit to the challenge, you could either email your un-scored model outputs 
       </div></td>
   </tr>
 </table>
-
+</div>
 
 * * *
