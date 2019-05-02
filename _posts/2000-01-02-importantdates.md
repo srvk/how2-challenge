@@ -13,7 +13,7 @@ Refer to this website for more information.
 
 Challenge starts: **March 15 2019**
 
-Challenge ends: **June 12 2019** (11:59pm Pacific Standard Time)
+Challenge ends: **June 13 2019** (11:59pm Pacific Standard Time)
 
 Deadline for paper submission: **May 15 2019** (11:59pm Pacific Standard Time)
 
