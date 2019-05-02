@@ -31,7 +31,7 @@ Please see the <a href="https://media.icml.cc/Conferences/ICML2019/Styles/icml20
 
 ### Submission Portal
 
-<a href="https://easychair.org/conferences/?conf=th2">Click here</a> to begin your submission. Choose the correct track marking if the paper uses How2 dataset or belongs to general multimodal work. 
+<a href="https://easychair.org/conferences/?conf=th2">Click here</a> to begin your submission. Choose either the How2 Challenge track (if using How2 dataset) or regular paper track.
 
 
 * * *
