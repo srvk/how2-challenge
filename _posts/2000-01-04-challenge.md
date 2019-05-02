@@ -33,6 +33,17 @@ To submit to the challenge, you could either email your un-scored model outputs 
       <button type="button" onclick="location.href = 'https://forms.gle/ffTeQYcRaCYiGYsN9';">Submit Results</button>
       </div></td>
   </tr>
+  <tr>
+    <td>
+      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8lB_FU4SQqfd7GblZzeGvtIUMUGxBt35-XnAaED0sSMtOuWgebqpBDZU5xSa8WwRYMLGbwzPdMBuF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+    </td>
+    <td>
+      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8lB_FU4SQqfd7GblZzeGvtIUMUGxBt35-XnAaED0sSMtOuWgebqpBDZU5xSa8WwRYMLGbwzPdMBuF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+    </td>
+    <td>
+      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8lB_FU4SQqfd7GblZzeGvtIUMUGxBt35-XnAaED0sSMtOuWgebqpBDZU5xSa8WwRYMLGbwzPdMBuF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+    </td>
+  </tr>
 </table>
 </div>
 
