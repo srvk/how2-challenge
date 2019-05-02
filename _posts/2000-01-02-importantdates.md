@@ -13,11 +13,15 @@ Refer to this website for more information.
 
 Challenge starts: **March 15 2019**
 
-Challenge ends: **June 13 2019** (11:59pm Pacific Standard Time)
 
-Deadline for paper submission: **May 15 2019** (11:59pm Pacific Standard Time)
+
+Deadline for paper submission: **May 15 2019** (11:59pm Pacific Time)
 
 Author Notification: **May 22 2019** 
+
+Challenge ends: **June 13 2019** (11:59pm Pacific Time)
+
+Camera ready: **June 13 2019** (11:59pm Pacific Time)
 
 Workshop: **June 14 or 15 2019** 
 
