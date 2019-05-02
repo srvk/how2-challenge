@@ -22,7 +22,7 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <th>Machine Translation</th>
     <th>Summarization</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td><div class="authorbio" align="top">
       <button type="button" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit Results</button>
       </div></td>
