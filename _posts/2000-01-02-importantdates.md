@@ -1,5 +1,5 @@
 ---
-title: "Dates"
+title: "Authors"
 bg: lightgray
 color: black
 style: left
