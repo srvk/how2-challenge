@@ -29,7 +29,7 @@ For any questions, contact us at <how2challenge@gmail.com>.
 
 <p align="center" style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:19px;font-color:maroon;">Get the How2 dataset and start exploring! </p>
   
-<p align="center" style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:19px;font-color:maroon;">  <a href="https://arxiv.org/abs/1811.00347"><strong>Paper</strong></a> | <a href="https://docs.google.com/forms/d/e/1FAIpQLSfW2i8UnjuoH2KKSU0BvcKRbhnk_vL3HcNlM0QLsJGb_UEDVQ/viewform?usp=pp_url" color="blue"><strong>Dataset</strong></a> | <a href="https://srvk.github.io/how2-dataset/"><strong>Learn more</strong></a>
+<p align="center" style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:19px;font-color:maroon;">  <a href="https://arxiv.org/abs/1811.00347"><strong>Paper</strong></a> | <a href="https://docs.google.com/forms/d/e/1FAIpQLSfW2i8UnjuoH2KKSU0BvcKRbhnk_vL3HcNlM0QLsJGb_UEDVQ/viewform?usp=pp_url" color="blue"><strong>Request Dataset</strong></a> | <a href="https://github.com/srvk/how2-dataset/blob/master/README.md"><strong>Learn more</strong></a>
 </p>
 
 
