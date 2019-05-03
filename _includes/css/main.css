@@ -293,6 +293,37 @@ tr.spaceUnder>td {
   margin-right:10px;
 }
 
+.btncls{
+    background-color:#B80C4D;
+    border: #2e6da4;
+  	font-family: Arial, Geneva, Arial, Helvetica,  sans-serif;
+	font-size: 15px;
+    color: #fff;
+    letter-spacing: 1px;
+    padding: 8px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    
+    border-radius: 4px;
+    line-height: 1.5;
+    text-decoration:none;
+}
+.btncls:hover{
+    background-color:#F773A5;
+    border: #2e6da4;
+  	font-family: Arial, Geneva, Arial, Helvetica,  sans-serif;
+	font-size: 15px;
+    color: #000;
+    letter-spacing: 1px;
+    padding: 8px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    
+    border-radius: 4px;
+    line-height: 1.5;
+    text-decoration:none;
+}
+
 /* ----- fork on github banner ----- */
 #forkongithub a {
   color:#fff;
