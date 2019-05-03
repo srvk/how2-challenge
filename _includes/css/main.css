@@ -325,79 +325,15 @@ tr.spaceUnder>td {
 }
 
 
-.table {
-    width: 80%;
-    max-width: 80%;
-    margin-bottom: 20px;
-}
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-s6z2{text-align:center}
+.tg .tg-jlrw{font-size:16px;text-align:center}
+.tg .tg-qnmb{font-weight:bold;font-size:16px;text-align:center}
+.tg .tg-fqar{background-color:#f9f9f9;font-size:16px;text-align:center}
 
-table {
-    background-color: transparent;
-}
 
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
-}
-
-#contentCover .leaderboardTable {
-    margin: 10px 0px;
-}
-
-#contentCover .leaderboardTable .date {
-    font-weight: normal;
-}
-
-.label-default {
-    background-color: #777;
-}
-
-.label {
-    display: inline;
-    padding: .2em .6em .3em;
-    font-size: 75%;
-    font-weight: 700;
-    line-height: 1;
-    color: #fff;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: baseline;
-    border-radius: .25em;
-}
-
-span {
-    font-family: 'Lato', Arial, sans-serif;
-    font-weight: 400;
-}
-
-#contentCover .leaderboardTable tr.baseline {
-    background: #f5f5f5;
-}
-
-tr.baseline {
-    display: table-row;
-    vertical-align: inherit;
-    border-color: inherit;
-}
-
-#contentCover .leaderboardTable td, #contentCover .leaderboardTable th {
-    text-align: center;
-    max-width: 250px;
-}
-
-leaderboardDiv {
-	align: 'center'
-}
-
-#contentCover .leaderboardTable .institution {
-    font-style: italic;
-    font-weight: 300;
-}
-
-.cover p {
-    font-size: 1.1em;
-    font-weight: 400;
-}
 
 /* ----- fork on github banner ----- */
 #forkongithub a {
