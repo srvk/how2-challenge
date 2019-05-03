@@ -25,13 +25,13 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
     <tr align="center">
     <td><div class="authorbio" align="top">
-      <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Make a Submission</button>
+      <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Make new Submission</button>
       </div></td>
     <td><div class="authorbio" align="top">
-      <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/27ABz4niLAzW2EHA6';">Make a Submission</button>
+      <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/27ABz4niLAzW2EHA6';">Make new Submission</button>
       </div></td>
     <td><div class="authorbio" align="top">
-      <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/ffTeQYcRaCYiGYsN9';">Make a Submission</button>
+      <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/ffTeQYcRaCYiGYsN9';">Make new Submission</button>
       </div></td>
   </tr>
 </table>
