@@ -1,6 +1,6 @@
 ---
 title: "Dates"
-bg: lightgray
+bg: white
 color: black
 style: left
 ---
