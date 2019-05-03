@@ -82,13 +82,13 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <th class="tg-qnmb">Verified</th>
   </tr>
   <tr>
-    <td class="tg-fqar"></td>
+    <td class="tg-fqar">-</td>
     <td class="tg-fqar">Unimodal Baseline<br><a href="https://nips2018vigil.github.io/static/papers/accepted/8.pdf">Libovicky et al. 2018</a></td>
     <td class="tg-fqar">53.9</td>
     <td class="tg-fqar"></td>
   </tr>
   <tr>
-    <td class="tg-fqar"></td>
+    <td class="tg-fqar">-</td>
     <td class="tg-fqar">Multimodal Baseline (Hierarchical Attention)<br><a href="https://nips2018vigil.github.io/static/papers/accepted/8.pdf">Libovicky et al. 2018</a></td>
     <td class="tg-fqar">54.9</td>
     <td class="tg-fqar"></td>
