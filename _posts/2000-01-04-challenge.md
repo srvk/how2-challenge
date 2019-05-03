@@ -25,13 +25,13 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <td class="tg-fqar"></td>
     <td class="tg-fqar">Unimodal Baseline<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-fqar">19.4</td>
-    <td class="tg-fqar"><input type="checkbox" checked="checked"></td>
+    <td class="tg-fqar"><input type="checkbox" checked="checked" onclick="return false;"></td>
   </tr>
   <tr>
     <td class="tg-s6z2"></td>
     <td class="tg-jlrw">Multimodal Baseline <br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-jlrw">18.0</td>
-    <td class="tg-jlrw"><input type="checkbox" checked="checked"></td>
+    <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
   </tr>
 </table>
   <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit to ASR</button>
@@ -49,13 +49,13 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <td class="tg-fqar"></td>
     <td class="tg-fqar">Unimodal Baseline<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-fqar">54.4</td>
-    <td class="tg-fqar"><input type="checkbox" checked="checked"></td>
+    <td class="tg-fqar"><input type="checkbox" checked="checked" onclick="return false;"></td>
   </tr>
   <tr>
     <td class="tg-s6z2"></td>
     <td class="tg-jlrw">Multimodal Baseline <br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-jlrw">54.4</td>
-    <td class="tg-jlrw"><input type="checkbox" checked="checked"></td>
+    <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
   </tr>
 </table>
   <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/27ABz4niLAzW2EHA6';">Submit to MT</button>
@@ -73,13 +73,13 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <td class="tg-fqar"></td>
     <td class="tg-fqar">Unimodal Baseline<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-fqar">53.9</td>
-    <td class="tg-fqar"><input type="checkbox" checked="checked"></td>
+    <td class="tg-fqar"><input type="checkbox" checked="checked" onclick="return false;"></td>
   </tr>
   <tr>
     <td class="tg-s6z2"></td>
     <td class="tg-jlrw">Multimodal Baseline <br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-jlrw">54.9</td>
-    <td class="tg-jlrw"><input type="checkbox" checked="checked"></td>
+    <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
   </tr>
 </table>
   <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/ffTeQYcRaCYiGYsN9';">Submit to Summarization</button>
