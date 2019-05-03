@@ -36,27 +36,28 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
 </table>
 
-<div class="leaderboardDiv" align="center">
-<h4>Speech Recognition</h4>
-<table class="table leaderboardTable">
-  <tr align="center">
-    <th>Rank</th>
-    <th>Model</th>
-    <th>WER</th>
-    <th>Verified</th>
+
+<table class="tg">
+  <tr>
+    <th class="tg-qnmb">Rank</th>
+    <th class="tg-qnmb">Model</th>
+    <th class="tg-qnmb">WER (%)</th>
+    <th class="tg-qnmb">Verified</th>
   </tr>
-  <tr align="center">
-    <td></td>
-    <td align="center">Unimodal Baseline<p class="institution">JSALT 2018</p><a href="https://arxiv.org/abs/1811.00347">(Sanabria et al. '18)</a></td>
-    <td align="center">19.4</td>
-    <td align="center">Yes</td>
+  <tr>
+    <td class="tg-fqar"></td>
+    <td class="tg-fqar">Unimodal Baseline<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-fqar">19.4</td>
+    <td class="tg-fqar">Yes</td>
   </tr>
-  <tr align="center">
-    <td></td>
-    <td align="center">Multimodal Baseline<p class="institution">JSALT 2018</p><a href="https://arxiv.org/abs/1811.00347">(Sanabria et al. '18)</a></td>
-    <td align="center">18.0</td>
-    <td align="center">Yes</td>
+  <tr>
+    <td class="tg-s6z2"></td>
+    <td class="tg-jlrw">Multimodal Baseline <br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-jlrw">18.0</td>
+    <td class="tg-jlrw">Yes</td>
   </tr>
-  </table> 
-</div>
+</table>
+
+
+
 * * *
