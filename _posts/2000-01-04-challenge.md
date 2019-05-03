@@ -35,7 +35,7 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
   <tr>
     <td class="tg-s6z2">1</td>
-    <td class="tg-jlrw">Multimodalimodal Ensemble <br><a href="">Caglayan et al. 2019</a></td>
+    <td class="tg-jlrw">Multimodal Ensemble <br><a href="">Caglayan et al. 2019</a></td>
     <td class="tg-jlrw">15.1</td>
     <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
   </tr>
