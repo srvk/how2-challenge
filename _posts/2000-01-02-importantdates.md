@@ -1,5 +1,5 @@
 ---
-title: "Authors"
+title: "Dates"
 bg: lightgray
 color: black
 style: left
@@ -22,18 +22,6 @@ Challenge ends: **June 13 2019** (11:59pm Pacific Time)
 Camera ready paper submission: **June 13 2019** (11:59pm Pacific Time)
 
 Workshop: **June 14 or 15 2019** 
-
-
-### Style and Author Guidelines
-
-We follow the same style guidelines as ICML. The maximum paper length is 8 pages excluding references and acknowledgements, and 12 pages including references and acknowledgements. The use of 10-point Times font is mandatory.
-
-Please see the <a href="https://media.icml.cc/Conferences/ICML2019/Styles/icml2019_style.zip">LaTeX style files</a>. The submissions will be single blind. Previously published papers are welcome too.
-
-
-### Paper Submission Portal
-
-<a href="https://easychair.org/conferences/?conf=th2">Click here</a> to begin your submission. Choose either the How2 Challenge track (if using How2 dataset) or regular paper track.
 
 
 * * *
