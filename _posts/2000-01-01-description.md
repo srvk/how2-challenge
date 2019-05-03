@@ -9,7 +9,7 @@ text-justify: auto
 
 ## New Tasks for Vision and Language
 
-#### ICML 2019 Workshop, Long Beach, California
+#### [ICML 2019 Workshop, Long Beach, California](https://icml.cc/Conferences/2019/Schedule?showEvent=3532)
 
 Research at the intersection of vision and language has attracted an increasing amount of attention over the last ten years. Current topics include the study of multi-modal representations, translation between modalities, bootstrapping of labels from one modality into another, visually-grounded question answering, embodied question-answering, segmentation and storytelling, and grounding the meaning of language in visual data. Still, these tasks may not be sufficient to fully exploit the potential of vision and language data.
 
