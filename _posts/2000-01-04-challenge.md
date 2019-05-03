@@ -36,9 +36,10 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
 </table>
 
+
 <div align="center">
 <h4>Speech Recognition</h4>
-<table class="tg">
+<table width="80%" class="tg">
   <tr>
     <th class="tg-qnmb">Rank</th>
     <th class="tg-qnmb">Model</th>
