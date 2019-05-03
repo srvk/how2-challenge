@@ -389,6 +389,11 @@ leaderboardDiv {
 	align: 'center'
 }
 
+#contentCover .leaderboardTable .institution {
+    font-style: italic;
+    font-weight: 300;
+}
+
 
 /* ----- fork on github banner ----- */
 #forkongithub a {
