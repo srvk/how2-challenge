@@ -35,6 +35,54 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
 </table>
   <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit to ASR</button>
+  
+  
+  <h4>Machine Translation</h4>
+<table width="80%" class="tg">
+  <tr>
+    <th class="tg-qnmb">Rank</th>
+    <th class="tg-qnmb">Model</th>
+    <th class="tg-qnmb">BLEU</th>
+    <th class="tg-qnmb">Verified</th>
+  </tr>
+  <tr>
+    <td class="tg-fqar"></td>
+    <td class="tg-fqar">Unimodal Baseline<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-fqar">53.4</td>
+    <td class="tg-fqar"><input type="checkbox" checked="checked"></td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"></td>
+    <td class="tg-jlrw">Multimodal Baseline <br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-jlrw">53.4</td>
+    <td class="tg-jlrw"><input type="checkbox" checked="checked"></td>
+  </tr>
+</table>
+  <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/27ABz4niLAzW2EHA6';">Submit to MT</button>
+  
+  
+  <h4>Summarization</h4>
+<table width="80%" class="tg">
+  <tr>
+    <th class="tg-qnmb">Rank</th>
+    <th class="tg-qnmb">Model</th>
+    <th class="tg-qnmb">Rouge-L (%)</th>
+    <th class="tg-qnmb">Verified</th>
+  </tr>
+  <tr>
+    <td class="tg-fqar"></td>
+    <td class="tg-fqar">Unimodal Baseline<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-fqar">53.9</td>
+    <td class="tg-fqar"><input type="checkbox" checked="checked"></td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"></td>
+    <td class="tg-jlrw">Multimodal Baseline <br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-jlrw">54.9</td>
+    <td class="tg-jlrw"><input type="checkbox" checked="checked"></td>
+  </tr>
+</table>
+  <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/ffTeQYcRaCYiGYsN9';">Submit to Summarization</button>
 </div>
 
 
