@@ -374,6 +374,10 @@ span {
     background: #f5f5f5;
 }
 
+leaderboardDiv {
+	align: 'center'
+}
+
 /* ----- fork on github banner ----- */
 #forkongithub a {
   color:#fff;
