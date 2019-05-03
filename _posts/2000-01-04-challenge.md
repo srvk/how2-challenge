@@ -39,23 +39,23 @@ To submit to the challenge, you could either email your un-scored model outputs 
 <div class="leaderboardDiv" align="center">
 <h3>Speech Recognition</h3>
 <table class="table leaderboardTable">
-  <tr>
+  <tr align="center">
     <th>Rank</th>
     <th>Model</th>
     <th>WER</th>
     <th>Verified</th>
   </tr>
-  <tr class="baseline">
+  <tr align="center">
     <td></td>
-    <td>Unimodal Baseline<p class="institution">JSALT 2018</p><a href="https://arxiv.org/abs/1811.00347">(Sanabria et al. '18)</a></td>
-    <td>19.4</td>
-    <td>Yes</td>
+    <td align="center">Unimodal Baseline<p class="institution">JSALT 2018</p><a href="https://arxiv.org/abs/1811.00347">(Sanabria et al. '18)</a></td>
+    <td align="center">19.4</td>
+    <td align="center">Yes</td>
   </tr>
-  <tr class="baseline">
+  <tr align="center">
     <td></td>
-    <td>Multimodal Baseline<p class="institution">JSALT 2018</p><a href="https://arxiv.org/abs/1811.00347">(Sanabria et al. '18)</a></td>
-    <td>18.0</td>
-    <td>Yes</td>
+    <td align="center">Multimodal Baseline<p class="institution">JSALT 2018</p><a href="https://arxiv.org/abs/1811.00347">(Sanabria et al. '18)</a></td>
+    <td align="center">18.0</td>
+    <td align="center">Yes</td>
   </tr>
   </table> 
 </div>
