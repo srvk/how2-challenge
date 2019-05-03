@@ -33,6 +33,18 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <td class="tg-jlrw">18.0</td>
     <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
   </tr>
+  <tr>
+    <td class="tg-s6z2">1</td>
+    <td class="tg-jlrw">Multimodalimodal Ensemble <br><a href="">Caglayan et al. 2019</a></td>
+    <td class="tg-jlrw">15.1</td>
+    <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">2</td>
+    <td class="tg-jlrw">Unimodal Ensemble <br><a href="">Caglayan et al. 2019</a></td>
+    <td class="tg-jlrw">15.6</td>
+    <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
+  </tr>
 </table>
   <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit to ASR</button>
   
