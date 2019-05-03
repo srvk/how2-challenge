@@ -20,11 +20,13 @@ We seek submissions in the following two categories (or tracks):
   We encourage both the publication of novel work that is relevant to the topics of discussion, and late-breaking results on the How2 tasks in a single format. We aim to stimulate discussion around new tasks that go beyond image captioning and visual question answering, and which could form the basis for future research in this area. 
 
 
+
 ### Style and Author Guidelines
 
 We follow the same style guidelines as ICML. The maximum paper length is 8 pages excluding references and acknowledgements, and 12 pages including references and acknowledgements. The use of 10-point Times font is mandatory.
 
 Please see the <a href="https://media.icml.cc/Conferences/ICML2019/Styles/icml2019_style.zip">LaTeX style files</a>. The submissions will be single blind. 
+
 
 
 ### Paper Submission Portal
