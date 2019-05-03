@@ -66,7 +66,7 @@ To submit to the challenge, you could either email your un-scored model outputs 
   <tr>
     <th class="tg-qnmb">Rank</th>
     <th class="tg-qnmb">Model</th>
-    <th class="tg-qnmb">Rouge-L (%)</th>
+    <th class="tg-qnmb">Rouge-L</th>
     <th class="tg-qnmb">Verified</th>
   </tr>
   <tr>
