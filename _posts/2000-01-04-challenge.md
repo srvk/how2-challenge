@@ -1,6 +1,6 @@
 ---
 title: "Challenge"
-bg: lightgray
+bg: white
 color: black
 style: left
 ---
@@ -36,7 +36,7 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
 </table>
 
-
+<div align="center">
 <table class="tg">
   <tr>
     <th class="tg-qnmb">Rank</th>
@@ -57,6 +57,7 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <td class="tg-jlrw">Yes</td>
   </tr>
 </table>
+</div>
 
 
 
