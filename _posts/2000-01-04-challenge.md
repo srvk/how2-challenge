@@ -13,38 +13,31 @@ To submit to the challenge, you could either email your un-scored model outputs 
 
 ### Leaderboards
 
-<div align="center">
+
 <table>
-  <col align="left">
-  <col align="left">
-  <tr align="center">
-    <th>Speech Recognition</th>
-    <th>Machine Translation</th>
-    <th>Summarization</th>
-  </tr>
-  <tr align="center">
-    <td><div class="authorbio" align="top">
-      <button type="button" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit Results</button>
-      </div></td>
-    <td><div class="authorbio" align="top">
-      <button type="button" onclick="location.href = 'https://forms.gle/27ABz4niLAzW2EHA6';">Submit Results</button>
-      </div></td>
-    <td><div class="authorbio" align="top">
-      <button type="button" onclick="location.href = 'https://forms.gle/ffTeQYcRaCYiGYsN9';">Submit Results</button>
-      </div></td>
-  </tr>
   <tr>
     <td>
       <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8lB_FU4SQqfd7GblZzeGvtIUMUGxBt35-XnAaED0sSMtOuWgebqpBDZU5xSa8WwRYMLGbwzPdMBuF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
     </td>
     <td>
-      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8lB_FU4SQqfd7GblZzeGvtIUMUGxBt35-XnAaED0sSMtOuWgebqpBDZU5xSa8WwRYMLGbwzPdMBuF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSiC9ZbFzYVDwuEgvyM8Eiz07_E6S2vUtG2G_riELgYks_7wTv-WXLE2xbTqGDn4o9GQy4uVe9UH7Nm/pubhtml?widget=true&amp;headers=false"></iframe>
     </td>
     <td>
-      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8lB_FU4SQqfd7GblZzeGvtIUMUGxBt35-XnAaED0sSMtOuWgebqpBDZU5xSa8WwRYMLGbwzPdMBuF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS41scbDXzQ48zYTMLJAeH5XRTxh5I0NQp8kttja308VcZDfTaz7WpSCK028wLlpQPaNWjLEK4bqOJa/pubhtml?widget=true&amp;headers=false"></iframe>
     </td>
   </tr>
+    <tr align="center">
+    <td><div class="authorbio" align="top">
+      <button type="button" class="btn btn-primary" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit New Results</button>
+      </div></td>
+    <td><div class="authorbio" align="top">
+      <button type="button" class="btn btn-primary" onclick="location.href = 'https://forms.gle/27ABz4niLAzW2EHA6';">Submit Results</button>
+      </div></td>
+    <td><div class="authorbio" align="top">
+      <button type="button" class="btn btn-primary" onclick="location.href = 'https://forms.gle/ffTeQYcRaCYiGYsN9';">Submit Results</button>
+      </div></td>
+  </tr>
 </table>
-</div>
+
 
 * * *
