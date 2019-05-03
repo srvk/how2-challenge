@@ -36,5 +36,26 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
 </table>
 
+<h2>Speech Recognition</h2>
+<table class="table leaderboardTable">
+  <tr>
+    <th>Rank</th>
+    <th>Model</th>
+    <th>WER</th>
+    <th>Verified</th>
+  </tr>
+  <tr class="baseline">
+    <td></td>
+    <td>Unimodal Baseline<p class="institution">JSALT 2018</p><a href="https://arxiv.org/abs/1811.00347">(Sanabria et al. '18)</a></td>
+    <td>19.4</td>
+    <td>Yes</td>
+  </tr>
+  <tr class="baseline">
+    <td></td>
+    <td>Multimodal Baseline<p class="institution">JSALT 2018</p><a href="https://arxiv.org/abs/1811.00347">(Sanabria et al. '18)</a></td>
+    <td>18.0</td>
+    <td>Yes</td>
+  </tr>
+  </table> 
 
 * * *
