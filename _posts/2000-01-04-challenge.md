@@ -1,11 +1,11 @@
 ---
-title: "Challenge"
+title: "Leaderboard"
 bg: white
 color: black
 style: left
 ---
 
-### Challenge Leaderboards
+### Challenge Leaderboard
 
 The How2 Challenge has three tasks: Speech Recognition, Machine Translation, and Summarization. 
 
@@ -37,6 +37,7 @@ To submit to the challenge, you could either email your un-scored model outputs 
 </table>
 
 <div align="center">
+<h4>Speech Recognition</h4>
 <table class="tg">
   <tr>
     <th class="tg-qnmb">Rank</th>
