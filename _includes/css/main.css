@@ -374,6 +374,12 @@ span {
     background: #f5f5f5;
 }
 
+tr.baseline {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
 #contentCover .leaderboardTable td, #contentCover .leaderboardTable th {
     text-align: center;
     max-width: 250px;
