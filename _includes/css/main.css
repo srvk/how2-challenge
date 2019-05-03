@@ -394,6 +394,10 @@ leaderboardDiv {
     font-weight: 300;
 }
 
+.cover p {
+    font-size: 1.1em;
+    font-weight: 400;
+}
 
 /* ----- fork on github banner ----- */
 #forkongithub a {
