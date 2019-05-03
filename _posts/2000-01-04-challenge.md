@@ -36,7 +36,8 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
 </table>
 
-<h2>Speech Recognition</h2>
+<div class="leaderboardDiv" align="center">
+<h3>Speech Recognition</h3>
 <table class="table leaderboardTable">
   <tr>
     <th>Rank</th>
@@ -57,5 +58,5 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <td>Yes</td>
   </tr>
   </table> 
-
+</div>
 * * *
