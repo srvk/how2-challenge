@@ -25,16 +25,16 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <td class="tg-fqar"></td>
     <td class="tg-fqar">Unimodal Baseline<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-fqar">19.4</td>
-    <td class="tg-fqar"><input type="checkbox" checked="checked"></input></td>
+    <td class="tg-fqar"><input type="checkbox" checked="checked"></td>
   </tr>
   <tr>
     <td class="tg-s6z2"></td>
     <td class="tg-jlrw">Multimodal Baseline <br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-jlrw">18.0</td>
-    <td class="tg-jlrw"><input type="checkbox" checked="checked"></input></td>
+    <td class="tg-jlrw"><input type="checkbox" checked="checked"></td>
   </tr>
 </table>
-  <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">New ASR Submission</button>
+  <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit to ASR</button>
 </div>
 
 
