@@ -23,13 +23,13 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
   <tr>
     <td class="tg-fqar">-<br>Baseline</td>
-    <td class="tg-fqar">Unimodal<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-fqar">Unimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-fqar">19.4</td>
     <td class="tg-fqar"></td>
   </tr>
   <tr>
     <td class="tg-fqar">-<br>Baseline</td>
-    <td class="tg-fqar">Multimodal<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-fqar">Multimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-fqar">18.0</td>
     <td class="tg-fqar"></td>
   </tr>
@@ -58,14 +58,14 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <th class="tg-qnmb">Verified</th>
   </tr>
   <tr>
-    <td class="tg-fqar">-</td>
-    <td class="tg-fqar">Unimodal Baseline<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-fqar">-<br>Baseline</td>
+    <td class="tg-fqar">Unimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-fqar">54.4</td>
     <td class="tg-fqar"></td>
   </tr>
   <tr>
-    <td class="tg-fqar">-</td>
-    <td class="tg-fqar">Multimodal Baseline <br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-fqar">-<br>Baseline</td>
+    <td class="tg-fqar">Multimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-fqar">54.4</td>
     <td class="tg-fqar"></td>
   </tr>
@@ -82,14 +82,14 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <th class="tg-qnmb">Verified</th>
   </tr>
   <tr>
-    <td class="tg-fqar">-</td>
-    <td class="tg-fqar">Unimodal Baseline<br><a href="https://nips2018vigil.github.io/static/papers/accepted/8.pdf">Libovicky et al. 2018</a></td>
+    <td class="tg-fqar">-<br>Baseline</td>
+    <td class="tg-fqar">Unimodal Model<br><a href="https://nips2018vigil.github.io/static/papers/accepted/8.pdf">Libovicky et al. 2018</a></td>
     <td class="tg-fqar">53.9</td>
     <td class="tg-fqar"></td>
   </tr>
   <tr>
-    <td class="tg-fqar">-</td>
-    <td class="tg-fqar">Multimodal Baseline (Hierarchical Attention)<br><a href="https://nips2018vigil.github.io/static/papers/accepted/8.pdf">Libovicky et al. 2018</a></td>
+    <td class="tg-fqar">-<br>Baseline</td>
+    <td class="tg-fqar">Multimodal Model (Hierarchical Attention)<br><a href="https://nips2018vigil.github.io/static/papers/accepted/8.pdf">Libovicky et al. 2018</a></td>
     <td class="tg-fqar">54.9</td>
     <td class="tg-fqar"></td>
   </tr>
