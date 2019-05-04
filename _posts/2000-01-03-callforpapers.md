@@ -19,7 +19,7 @@ We seek submissions in the following two categories (or tracks):
 
   We encourage both the publication of novel work that is relevant to the topics of discussion, and late-breaking results on the How2 tasks in a single format. We aim to stimulate discussion around new tasks that go beyond image captioning and visual question answering, and which could form the basis for future research in this area. 
 
-
+We will have a limited number of **travel grants available for students** that are first authors of a paper and are going to present it at the workshop! Please tick the box during submission.
 
 ### Style and Author Guidelines
 
