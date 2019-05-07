@@ -17,7 +17,7 @@ To support research in this area, we recently released the How2 data-set, contai
 
 We are organizing a workshop at ICML 2019, to bring together researchers and foster the exchange of ideas in this area. We invite papers that participate in the How2 Challenge and also those that use other public or private multimodal datasets. 
 
-For any questions, contact us at <how2challenge@gmail.com>.
+For any questions, contact us at <how2challenge@gmail.com>. Subscribe to the How2 mailing list <a href="https://lists.andrew.cmu.edu/mailman/listinfo/how-to">here</a>.
 
 
 <p align="center">
