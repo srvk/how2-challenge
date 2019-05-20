@@ -35,15 +35,15 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
   <tr>
     <td class="tg-s6z2">3<br>Baseline</td>
-    <td class="tg-fqar">Multimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
-    <td class="tg-fqar">18.0</td>
-    <td class="tg-fqar"></td>
+    <td class="tg-jlrw">Multimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-jlrw">18.0</td>
+    <td class="tg-jlrw"></td>
   </tr>
   <tr>
     <td class="tg-s6z2">4<br>Baseline</td>
-    <td class="tg-fqar">Unimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
-    <td class="tg-fqar">19.4</td>
-    <td class="tg-fqar"></td>
+    <td class="tg-jlrw">Unimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-jlrw">19.4</td>
+    <td class="tg-jlrw"></td>
   </tr>
 </table>
   <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit to ASR</button>
@@ -59,15 +59,15 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
   <tr>
     <td class="tg-s6z2">1<br>Baseline</td>
-    <td class="tg-fqar">Unimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
-    <td class="tg-fqar">54.4</td>
-    <td class="tg-fqar"></td>
+    <td class="tg-jlrw">Unimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-jlrw">54.4</td>
+    <td class="tg-jlrw"></td>
   </tr>
   <tr>
     <td class="tg-s6z2">1<br>Baseline</td>
-    <td class="tg-fqar">Multimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
-    <td class="tg-fqar">54.4</td>
-    <td class="tg-fqar"></td>
+    <td class="tg-jlrw">Multimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-jlrw">54.4</td>
+    <td class="tg-jlrw"></td>
   </tr>
   <tr>
     <td class="tg-s6z2">3</td>
@@ -89,15 +89,15 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
   <tr>
     <td class="tg-s6z2">1<br>Baseline</td>
-    <td class="tg-fqar">Multimodal Model (Hierarchical Attention)<br><a href="https://nips2018vigil.github.io/static/papers/accepted/8.pdf">Libovicky et al. 2018</a></td>
-    <td class="tg-fqar">54.9</td>
-    <td class="tg-fqar"></td>
+    <td class="tg-jlrw">Multimodal Model (Hierarchical Attention)<br><a href="https://nips2018vigil.github.io/static/papers/accepted/8.pdf">Libovicky et al. 2018</a></td>
+    <td class="tg-jlrw">54.9</td>
+    <td class="tg-jlrw"></td>
   </tr>
   <tr>
     <td class="tg-s6z2">2<br>Baseline</td>
-    <td class="tg-fqar">Unimodal Model<br><a href="https://nips2018vigil.github.io/static/papers/accepted/8.pdf">Libovicky et al. 2018</a></td>
-    <td class="tg-fqar">53.9</td>
-    <td class="tg-fqar"></td>
+    <td class="tg-jlrw">Unimodal Model<br><a href="https://nips2018vigil.github.io/static/papers/accepted/8.pdf">Libovicky et al. 2018</a></td>
+    <td class="tg-jlrw">53.9</td>
+    <td class="tg-jlrw"></td>
   </tr>
 </table>
   <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/ffTeQYcRaCYiGYsN9';">Submit to Summarization</button>
