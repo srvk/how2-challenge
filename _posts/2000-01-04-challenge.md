@@ -71,7 +71,7 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
   <tr>
     <td class="tg-s6z2">3</td>
-    <td class="tg-jlrw">BPE Multimodal, JHU<br>Kumar et al. 2019</a></td>
+    <td class="tg-jlrw">BPE Multimodal<br>Lal et al. 2019, JHU</a></td>
     <td class="tg-jlrw">51.0</td>
     <td class="tg-jlrw"></td>
   </tr>
