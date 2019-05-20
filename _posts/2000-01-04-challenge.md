@@ -71,9 +71,9 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
   <tr>
     <td class="tg-s6z2">3</td>
-    <td class="tg-jlrw">BPE Multimodal<br>Lal et al. 2019, JHU</a></td>
+    <td class="tg-jlrw">BPE Multimodal<br>Lal et al. 2019, JHU</td>
     <td class="tg-jlrw">51.0</td>
-    <td class="tg-jlrw"></td>
+    <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
   </tr>
 </table>
   <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/27ABz4niLAzW2EHA6';">Submit to MT</button>
