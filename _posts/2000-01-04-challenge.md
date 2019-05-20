@@ -22,18 +22,6 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <th class="tg-qnmb">Verified</th>
   </tr>
   <tr>
-    <td class="tg-fqar">-<br>Baseline</td>
-    <td class="tg-fqar">Unimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
-    <td class="tg-fqar">19.4</td>
-    <td class="tg-fqar"></td>
-  </tr>
-  <tr>
-    <td class="tg-fqar">-<br>Baseline</td>
-    <td class="tg-fqar">Multimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
-    <td class="tg-fqar">18.0</td>
-    <td class="tg-fqar"></td>
-  </tr>
-  <tr>
     <td class="tg-s6z2">1</td>
     <td class="tg-jlrw">Multimodal Ensemble <br><a href="">Caglayan et al. 2019</a></td>
     <td class="tg-jlrw">15.1</td>
@@ -44,6 +32,18 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <td class="tg-jlrw">Unimodal Ensemble <br><a href="">Caglayan et al. 2019</a></td>
     <td class="tg-jlrw">15.6</td>
     <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
+  </tr>
+  <tr>
+    <td class="tg-fqar">3<br>Baseline</td>
+    <td class="tg-fqar">Multimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-fqar">18.0</td>
+    <td class="tg-fqar"></td>
+  </tr>
+  <tr>
+    <td class="tg-fqar">4<br>Baseline</td>
+    <td class="tg-fqar">Unimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
+    <td class="tg-fqar">19.4</td>
+    <td class="tg-fqar"></td>
   </tr>
 </table>
   <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/z8Q7Qhbw2Ku6MmKbA';">Submit to ASR</button>
@@ -58,16 +58,22 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <th class="tg-qnmb">Verified</th>
   </tr>
   <tr>
-    <td class="tg-fqar">-<br>Baseline</td>
+    <td class="tg-fqar">1<br>Baseline</td>
     <td class="tg-fqar">Unimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-fqar">54.4</td>
     <td class="tg-fqar"></td>
   </tr>
   <tr>
-    <td class="tg-fqar">-<br>Baseline</td>
+    <td class="tg-fqar">1<br>Baseline</td>
     <td class="tg-fqar">Multimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-fqar">54.4</td>
     <td class="tg-fqar"></td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">3</td>
+    <td class="tg-jlrw">BPE Multimodal, JHU<br>Kumar et al. 2019</a></td>
+    <td class="tg-jlrw">50.99</td>
+    <td class="tg-jlrw"></td>
   </tr>
 </table>
   <button type="button" class="btncls" onclick="location.href = 'https://forms.gle/27ABz4niLAzW2EHA6';">Submit to MT</button>
@@ -82,15 +88,15 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <th class="tg-qnmb">Verified</th>
   </tr>
   <tr>
-    <td class="tg-fqar">-<br>Baseline</td>
-    <td class="tg-fqar">Unimodal Model<br><a href="https://nips2018vigil.github.io/static/papers/accepted/8.pdf">Libovicky et al. 2018</a></td>
-    <td class="tg-fqar">53.9</td>
+    <td class="tg-fqar">1<br>Baseline</td>
+    <td class="tg-fqar">Multimodal Model (Hierarchical Attention)<br><a href="https://nips2018vigil.github.io/static/papers/accepted/8.pdf">Libovicky et al. 2018</a></td>
+    <td class="tg-fqar">54.9</td>
     <td class="tg-fqar"></td>
   </tr>
   <tr>
-    <td class="tg-fqar">-<br>Baseline</td>
-    <td class="tg-fqar">Multimodal Model (Hierarchical Attention)<br><a href="https://nips2018vigil.github.io/static/papers/accepted/8.pdf">Libovicky et al. 2018</a></td>
-    <td class="tg-fqar">54.9</td>
+    <td class="tg-fqar">2<br>Baseline</td>
+    <td class="tg-fqar">Unimodal Model<br><a href="https://nips2018vigil.github.io/static/papers/accepted/8.pdf">Libovicky et al. 2018</a></td>
+    <td class="tg-fqar">53.9</td>
     <td class="tg-fqar"></td>
   </tr>
 </table>
