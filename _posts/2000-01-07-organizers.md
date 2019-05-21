@@ -48,6 +48,24 @@ style: center
 
 * * * 
 
+### Program Committee
+
+- Ozan Çağlayan
+- Raffaella	Bernardi
+- Guillem Collell
+- Spandana Gella
+- David Hogg
+- Markus Müller
+- Thales Bertaglia
+- Aditya Mogadala
+- Siddharth Narayanaswamy
+- Nils Holzenberger
+- Amanda Duarte
+- Herman Kamper
+
+* * *
+
+
 ### References
 
 <p align="left" style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:15px">
