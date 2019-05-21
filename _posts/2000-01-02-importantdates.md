@@ -21,7 +21,7 @@ Challenge ends: **June 13, 2019**
 
 Camera ready paper submission: **June 13, 2019**
 
-Workshop: **June 14 or 15, 2019** (see the [ICML web page](https://icml.cc/Conferences/2019/Schedule?showEvent=3532))
+Workshop: **June 15, 2019** (see the [ICML web page](https://icml.cc/Conferences/2019/Schedule?showEvent=3532))
 
 
 * * *
