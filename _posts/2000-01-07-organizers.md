@@ -50,7 +50,7 @@ style: center
 
 ### Program Committee
 
-<p align="left">
+<p align="left" style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:15px">
 Ozan Çağlayan<br>
 Raffaella	Bernardi<br>
 Guillem Collell<br>
