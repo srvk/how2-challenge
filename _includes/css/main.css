@@ -171,8 +171,8 @@ nav ul li:hover, nav ul li.active {
   position:relative;
   display:block;
   width:100%;
-  min-height:300px;
-  padding:210px 0;
+  min-height:0px;
+  padding:0px 0;
   background:url(img/bgnoise.png);
   /* generated noise from noisetexturegenerator.com */
 }
@@ -223,7 +223,7 @@ nav ul li:hover, nav ul li.active {
   position: static;
   margin-top: -8px;
 }
-.sectiondivider .fa-circle { color: #fff; }
+.sectiondivider .fa-circle { color: white; }
 
 .sectiondivider h5 {
   font-size:15px;
@@ -292,6 +292,48 @@ tr.spaceUnder>td {
   text-align: left;
   margin-right:10px;
 }
+
+.btncls{
+    background-color:#B80C4D;
+    border: #2e6da4;
+  	font-family: Arial, Geneva, Arial, Helvetica,  sans-serif;
+	font-size: 15px;
+    color: #fff;
+    letter-spacing: 1px;
+    padding: 8px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    
+    border-radius: 4px;
+    line-height: 1.5;
+    text-decoration:none;
+}
+.btncls:hover{
+    background-color:#F773A5;
+    border: #2e6da4;
+  	font-family: Arial, Geneva, Arial, Helvetica,  sans-serif;
+	font-size: 15px;
+    color: #000;
+    letter-spacing: 1px;
+    padding: 8px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    
+    border-radius: 4px;
+    line-height: 1.5;
+    text-decoration:none;
+}
+
+
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-s6z2{text-align:center}
+.tg .tg-jlrw{font-size:16px;text-align:center}
+.tg .tg-qnmb{font-weight:bold;font-size:16px;text-align:center}
+.tg .tg-fqar{background-color:#f9f9f9;font-size:16px;text-align:center}
+
+
 
 /* ----- fork on github banner ----- */
 #forkongithub a {

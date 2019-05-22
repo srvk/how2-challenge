@@ -1,6 +1,6 @@
 ---
 title: "Speakers"
-bg: lightgray 
+bg: white 
 color: black
 style: left
 ---

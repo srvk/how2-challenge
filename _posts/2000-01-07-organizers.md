@@ -46,7 +46,26 @@ style: center
 
 <p style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:15px">For any questions, contact us at how2challenge@gmail.com.</p>
 
-* * * 
+
+
+### Program Committee
+
+<p align="left" style="font-family:font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;font-size:15px">
+ - Ozan Çağlayan<br>
+ - Raffaella	Bernardi<br>
+ - Guillem Collell<br>
+ - Spandana Gella<br>
+ - David Hogg<br>
+ - Markus Müller<br>
+ - Thales Bertaglia<br>
+ - Aditya Mogadala<br>
+ - Siddharth Narayanaswamy<br>
+ - Nils Holzenberger<br>
+ - Amanda Duarte<br>
+ - Herman Kamper<br>
+</p>
+
+* * *
 
 ### References
 
