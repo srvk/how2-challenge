@@ -58,19 +58,25 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <th class="tg-qnmb">Verified</th>
   </tr>
   <tr>
-    <td class="tg-s6z2">1<br>Baseline</td>
+    <td class="tg-s6z2">1</td>
+    <td class="tg-jlrw">SPM Multimodal<br>Raunak et al. 2019, CMU</td>
+    <td class="tg-jlrw">55.5</td>
+    <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">2<br>Baseline</td>
     <td class="tg-jlrw">Unimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-jlrw">54.4</td>
     <td class="tg-jlrw"></td>
   </tr>
   <tr>
-    <td class="tg-s6z2">1<br>Baseline</td>
+    <td class="tg-s6z2">2<br>Baseline</td>
     <td class="tg-jlrw">Multimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-jlrw">54.4</td>
     <td class="tg-jlrw"></td>
   </tr>
   <tr>
-    <td class="tg-s6z2">3</td>
+    <td class="tg-s6z2">4</td>
     <td class="tg-jlrw">BPE Multimodal<br>Lal et al. 2019, JHU</td>
     <td class="tg-jlrw">51.0</td>
     <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
