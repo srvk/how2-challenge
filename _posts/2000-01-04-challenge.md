@@ -67,7 +67,7 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <td class="tg-s6z2">2</td>
     <td class="tg-jlrw">Transformer with Additional Cross-Attention<br>Wu & Ive et al. 2019, Imperial College London</td>
     <td class="tg-jlrw">54.9</td>
-    <td class="tg-jlrw"><input type="checkbox" onclick="return false;"></td>
+    <td class="tg-jlrw"></td>
   </tr>
   <tr>
     <td class="tg-s6z2">3<br>Baseline</td>
