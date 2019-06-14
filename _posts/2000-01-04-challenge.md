@@ -64,22 +64,22 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
   </tr>
   <tr>
-    <td class="tg-s6z2">2<br>Baseline</td>
+    <td class="tg-s6z2">2</td>
+    <td class="tg-jlrw">Transformer with Additional Cross-Attention<br>Wu & Ive et al. 2019, Imperial College London</td>
+    <td class="tg-jlrw">54.9</td>
+    <td class="tg-jlrw"><input type="checkbox" onclick="return false;"></td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">3<br>Baseline</td>
     <td class="tg-jlrw">Unimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-jlrw">54.4</td>
     <td class="tg-jlrw"></td>
   </tr>
   <tr>
-    <td class="tg-s6z2">2<br>Baseline</td>
+    <td class="tg-s6z2">3<br>Baseline</td>
     <td class="tg-jlrw">Multimodal Model<br><a href="https://arxiv.org/abs/1811.00347">Sanabria et al. 2018</a></td>
     <td class="tg-jlrw">54.4</td>
     <td class="tg-jlrw"></td>
-  </tr>
-  <tr>
-    <td class="tg-s6z2">4</td>
-    <td class="tg-jlrw">Transformer with Additional Cross-Attention<br>Wu & Ive et al. 2019, Imperial College London</td>
-    <td class="tg-jlrw">54.0</td>
-    <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
   </tr>
   <tr>
     <td class="tg-s6z2">5</td>
