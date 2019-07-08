@@ -59,7 +59,7 @@ To submit to the challenge, you could either email your un-scored model outputs 
   </tr>
   <tr>
     <td class="tg-s6z2">1</td>
-    <td class="tg-jlrw">SPM Multimodal<br>Raunak et al. 2019, CMU</td>
+    <td class="tg-jlrw">Unimodal SPM Transformer<br>Raunak et al. 2019, CMU</td>
     <td class="tg-jlrw">55.5</td>
     <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
   </tr>
