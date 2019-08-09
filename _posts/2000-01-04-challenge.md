@@ -61,7 +61,7 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <td class="tg-s6z2">1</td>
     <td class="tg-jlrw">Attention over Image Features<br>Wu et al. 2019, Imperial College London</td>
     <td class="tg-jlrw">56.2</td>
-    <td class="tg-jlrw"></td>
+    <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
   </tr>
   <tr>
     <td class="tg-s6z2">2</td>
