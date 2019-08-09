@@ -57,17 +57,17 @@ To submit to the challenge, you could either email your un-scored model outputs 
     <th class="tg-qnmb">BLEU</th>
     <th class="tg-qnmb">Verified</th>
   </tr>
-  <tr>
+   <tr>
     <td class="tg-s6z2">1</td>
-    <td class="tg-jlrw">Unimodal SPM Transformer<br>Raunak et al. 2019, CMU</td>
-    <td class="tg-jlrw">55.5</td>
-    <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
+    <td class="tg-jlrw">Attention over Image Features<br>Wu et al. 2019, Imperial College London</td>
+    <td class="tg-jlrw">56.2</td>
+    <td class="tg-jlrw"></td>
   </tr>
   <tr>
     <td class="tg-s6z2">2</td>
-    <td class="tg-jlrw">Transformer with Additional Cross-Attention<br>Wu & Ive et al. 2019, Imperial College London</td>
-    <td class="tg-jlrw">54.9</td>
-    <td class="tg-jlrw"></td>
+    <td class="tg-jlrw">Unimodal SPM Transformer<br>Raunak et al. 2019, CMU</td>
+    <td class="tg-jlrw">55.5</td>
+    <td class="tg-jlrw"><input type="checkbox" checked="checked" onclick="return false;"></td>
   </tr>
   <tr>
     <td class="tg-s6z2">3<br>Baseline</td>
